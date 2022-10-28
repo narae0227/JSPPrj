@@ -22,7 +22,7 @@
   version="4.0"
   metadata-complete="false">
 
- <!-- <servlet>
+ <!-- <servlet> 
  	<servlet-name>na</servlet-name>
  	<servlet-class>com.newlecture.web.Nana</servlet-class>
  </servlet>
